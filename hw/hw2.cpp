@@ -1,4 +1,4 @@
-// polynomial addition
+// maze problem
 
 #include <bits/stdc++.h>
 using namespace std;
